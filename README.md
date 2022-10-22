@@ -8,7 +8,7 @@
 
 ## Introduction
 
-In the world of programming, we often work with lists. Sometimes we want to find
+In the world of programming, we often work with lists. Sometimes we want to find 
 or transform elements in a list, but other times we might want to create a
 single summary value. In this lesson, we'll learn how to use the `reduce()`
 iterator method to **aggregate** a result, i.e., to _reduce_ a list to a single
